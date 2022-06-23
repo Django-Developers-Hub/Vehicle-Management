@@ -1,3 +1,5 @@
+
+aut_env/
 py39/
 .env
 vehiclemanagement/__pycache__
@@ -5,3 +7,4 @@ db.sqlite3
 admin/__pycache__
 driver/__pycache__
 manager/__pycache__
+
