@@ -1,5 +1,6 @@
 py39/
 .env
+venv/*
 vehiclemanagement/__pycache__
 db.sqlite3
 admin/__pycache__
